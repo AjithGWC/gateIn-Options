@@ -1,8 +1,74 @@
 {
-    "name": "Style Union Upcoming Options",
-    "version": "0.0.1",
-    "size": {
-        "width": 3,
-        "height": 3
+  "name": "Style Union Gate-In Options",
+  "version": "0.0.1",
+  "size": {
+    "width": 3,
+    "height": 3
+  },
+  "id": "1cf92165-fb76-4458-ad06-406bacbad3a8",
+  "proxyId": "d94cf344-c703-4bcc-87a0-b78787e9efd3",
+  "mapping": [
+    {
+      "dataSetId": "e7130247-1c17-4a10-8d53-cec392b1552a",
+      "alias": "dataset",
+      "fields": [
+        {
+          "alias": "image",
+          "columnName": "Group By.Photo URL New"
+        },
+        {
+          "alias": "division",
+          "columnName": "Division"
+        },
+        {
+          "alias": "department",
+          "columnName": "Department"
+        },
+        {
+          "alias": "sub_department",
+          "columnName": "Sub-Department"
+        },
+        {
+          "alias": "group_section",
+          "columnName": "Group Section"
+        },
+        {
+          "alias": "group_family",
+          "columnName": "Group By.Family"
+        },
+        {
+          "alias": "style_number",
+          "columnName": "Style Number"
+        },
+        {
+          "alias": "product_type",
+          "columnName": "Product Type"
+        },
+        {
+          "alias": "order_qty",
+          "columnName": "Order Qty"
+        },
+        {
+          "alias": "CurrenStatus",
+          "columnName": "CURRENT STATUS"
+        },
+        {
+          "alias": "store_launch_week",
+          "columnName": "Store Launch Week"
+        },
+        {
+          "alias": "colour",
+          "columnName": "Color"
+        },
+        {
+          "alias": "gate_date",
+          "columnName": "Gate Entry Actual"
+        },
+        {
+          "alias": "Product_Reference",
+          "columnName": "PRODUCT REFERENCE"
+        }
+      ]
     }
+  ]
 }
